@@ -1,0 +1,2 @@
+,latency_cuda_torch,latency,throughput,name
+0,6.67146372795105,61.15,33.74,vanillanet_13_x1_5
